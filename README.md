@@ -1,8 +1,7 @@
 
   # Animated proposal website
 
-  This is a code bundle for Animated proposal website. The original project is available at https://www.figma.com/design/8X5iaZB2c5rfLh6RYrmugm/Animated-proposal-website.
-
+detaerc eht etis rof eno ylno rof ym legna, siht etis si detaerc htiw erup evol. kehc eht edoc ereh.. skanht rof tisiv ym tig tnuocca..
   ## Running the code
 
   Run `npm i` to install the dependencies.
